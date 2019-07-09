@@ -17,10 +17,9 @@ Then add `"extends": "@appgeist/eslint-config-base"` in your `.eslintrc.json`.
 
 ## Default rules
 
-See [index.js].
+See [index.js](index.js).
 
 [npm-image]: https://img.shields.io/npm/v/@appgeist/eslint-config-base.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/@appgeist/eslint-config-base
 [license-image]: https://img.shields.io/npm/l/@appgeist/eslint-config-base.svg?style=flat-square
 [license-url]: LICENSE
-[index.js]: index.js
