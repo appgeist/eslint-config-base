@@ -1,6 +1,6 @@
 {
   "name": "@appgeist/eslint-config-base",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Basic opinionated eslint/prettier config",
   "keywords": [
     "eslint",
@@ -19,7 +19,7 @@
     "url": "https://github.com/icflorescu"
   },
   "license": "ISC",
-  "peerDependencies": {
+  "dependencies": {
     "eslint": "^6.0.1",
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-config-prettier": "^6.0.0",
