@@ -7,13 +7,7 @@ This package provides AppGeist's base JS .eslintrc (without React plugins) as an
 
 ## Usage
 
-Assuming you're using **npm 5+**, install with:
-
-```sh
-npx install-peerdeps --dev @appgeist/eslint-config-base
-```
-
-Then add `"extends": "@appgeist/eslint-config-base"` in your `.eslintrc.json`.
+Add `"extends": "@appgeist/eslint-config-base"` to your `.eslintrc.json`.
 
 ## Default rules
 

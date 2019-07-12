@@ -11,7 +11,7 @@
   "main": "index.js",
   "repository": "https://github.com/appgeist/eslint-config-base",
   "bugs": {
-    "url": "https://github.com/appgeist/storage/issues"
+    "url": "https://github.com/appgeist/storage/eslint-config-base"
   },
   "author": {
     "name": "Ionut-Cristian Florescu",
