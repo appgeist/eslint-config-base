@@ -2,7 +2,7 @@
 module.exports = {
   root: true,
   env: { es6: true, node: true },
-  parserOptions: { ecmaVersion: 10, sourceType: 'script' },
+  parserOptions: { ecmaVersion: 9, sourceType: 'script' },
   extends: [
     'eslint:recommended',
     'plugin:import/errors',
