@@ -19,6 +19,7 @@ module.exports = {
     'max-len': ['warn', 120],
     'prefer-const': 'warn',
     'camelcase': 'off',
+    'no-nested-ternary': 'off',
     'arrow-parens': ['error', 'as-needed', { requireForBlockBody: true }],
     'function-paren-newline': ['error', 'consistent'],
     'newline-per-chained-call': 'off',
