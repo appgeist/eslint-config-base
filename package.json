@@ -1,6 +1,6 @@
 {
   "name": "@appgeist/eslint-config-base",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "Basic opinionated eslint/prettier config",
   "keywords": [
     "eslint",
@@ -20,6 +20,7 @@
   },
   "license": "ISC",
   "dependencies": {
+    "babel-eslint": "^10.0.2",
     "eslint": "^4.19.1",
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-config-prettier": "^6.0.0",
