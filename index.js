@@ -2,7 +2,8 @@
 module.exports = {
   root: true,
   env: { es6: true, node: true },
-  parserOptions: { ecmaVersion: 9, sourceType: 'script' },
+  parser: 'babel-eslint',
+  parserOptions: { ecmaVersion: 10, sourceType: 'script' },
   extends: [
     'eslint:recommended',
     'plugin:import/errors',

@@ -3,7 +3,7 @@
 [![NPM version][npm-image]][npm-url]
 [![License][license-image]][license-url]
 
-This package provides AppGeist's base JS .eslintrc (without React plugins) as an extensible shared config.
+This package provides AppGeist's base JS .eslintrc (ecmaVersion 10 - Node.js > 12, without React plugins) as an extensible shared config.
 
 ## Usage
 
