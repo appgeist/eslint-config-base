@@ -1,6 +1,6 @@
 {
   "name": "@appgeist/eslint-config-base",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Basic opinionated eslint/prettier config",
   "keywords": [
     "eslint",
