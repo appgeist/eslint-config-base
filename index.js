@@ -20,7 +20,7 @@ module.exports = {
     'prefer-const': 'warn',
     'camelcase': 'off',
     'no-nested-ternary': 'off',
-    'arrow-parens': ['error', 'as-needed', { requireForBlockBody: true }],
+    'arrow-parens': 'error',
     'function-paren-newline': ['error', 'consistent'],
     'newline-per-chained-call': 'off',
     'quotes': ['warn', 'single', { avoidEscape: true, allowTemplateLiterals: true }],
